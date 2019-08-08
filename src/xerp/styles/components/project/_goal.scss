@@ -1,0 +1,10 @@
+#goal-list {
+  .ant-list-items {
+    .ant-list-item.active {
+      background: $info!important;
+      a {
+        color: $gray-lighter
+      }
+    }
+  }
+}

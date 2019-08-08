@@ -1,0 +1,22 @@
+#page-not-found{
+    background:$purple;
+    padding: 20px;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#page-not-found h1{
+    font-size: 38px;
+    color: $off-white;
+    margin: 0px;
+}
+
+
+#page-not-found p{
+    color: #fff;
+    font-size: 18px;
+}

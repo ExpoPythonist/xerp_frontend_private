@@ -1,0 +1,15 @@
+
+// Fix toaster position under header
+.Toastify__toast-container--top-right,
+.Toastify__toast-container--top-left,
+.Toastify__toast-container--top-center {
+    top: $navbar-hg !important;
+}
+
+// Fix toaster position next to sidebar
+@include media-breakpoint-up(md) {
+    .Toastify__toast-container--top-left,
+    .Toastify__toast-container--bottom-left {
+        left: $aside-wd !important;
+    }
+}

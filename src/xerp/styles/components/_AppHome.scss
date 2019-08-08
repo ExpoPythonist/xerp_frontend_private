@@ -1,0 +1,23 @@
+#app-home{
+    background: url('/img/bg.png');
+    background-size:100%;
+    height: stretch;
+
+    .overlay{
+      background: rgba(0, 0, 0, 0.5);
+      height: stretch;
+    }
+    .card{
+      background: transparent !important;
+    }
+    .card-body {
+        padding: 0px;
+      // box-shadow: 0px 0px 12px 3px #000;
+        // background: #1c1929;
+        background: transparent !important;
+    .text-white {
+        color: #fff !important;
+        // box-shadow: 0px 0px 12px 3px #000;
+      }
+    }
+}
