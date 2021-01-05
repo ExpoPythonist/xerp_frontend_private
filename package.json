@@ -9,7 +9,7 @@
     "@material-ui/pickers": "^3.0.0",
     "animate.css": "3.7.0",
     "antd": "^3.17.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "4.3.1",
     "bootstrap-filestyle": "github:markusslima/bootstrap-filestyle#v2.1.0",
     "chart.js": "2.7.3",
