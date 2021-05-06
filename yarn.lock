@@ -4393,10 +4393,10 @@ draft-js@0.10.5, draft-js@^0.10.0, draft-js@~0.10.0:
     immutable "~3.7.4"
     object-assign "^4.1.0"
 
-draftjs-utils@^0.9.3:
-  version "0.9.4"
-  resolved "https://registry.yarnpkg.com/draftjs-utils/-/draftjs-utils-0.9.4.tgz#976c61aa133dbbbfedd65ae1dd6627d7b98c6f08"
-  integrity sha512-KYjABSbGpJrwrwmxVj5UhfV37MF/p0QRxKIyL+/+QOaJ8J9z1FBKxkblThbpR0nJi9lxPQWGg+gh+v0dAsSCCg==
+draftjs-utils@^0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/draftjs-utils/-/draftjs-utils-0.10.2.tgz#a7f16d2c1c174ac38ba3bbf700c256f176b2699c"
+  integrity sha512-EstHqr3R3JVcilJrBaO/A+01GvwwKmC7e4TCjC7S94ZeMh4IVmf60OuQXtHHpwItK8C2JCi3iljgN5KHkJboUg==
 
 duplexer2@~0.1.4:
   version "0.1.4"
@@ -5909,10 +5909,10 @@ html-parse-stringify2@2.0.1:
   dependencies:
     void-elements "^2.0.1"
 
-html-to-draftjs@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/html-to-draftjs/-/html-to-draftjs-1.4.0.tgz#8a3cbbba5b49d50be8ce85cc08b112d5bf00fc1d"
-  integrity sha1-ijy7ultJ1QvozoXMCLES1b8A/B0=
+html-to-draftjs@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/html-to-draftjs/-/html-to-draftjs-1.5.0.tgz#0df0eabf429deaedb63f5c859889e2c983606e86"
+  integrity sha512-kggLXBNciKDwKf+KYsuE+V5gw4dZ7nHyGMX9m0wy7urzWjKGWyNFetmArRLvRV0VrxKN70WylFsJvMTJx02OBQ==
 
 html-webpack-plugin@4.0.0-beta.5:
   version "4.0.0-beta.5"
@@ -7498,10 +7498,10 @@ linebreak@^0.3.0:
     brfs "^1.3.0"
     unicode-trie "^0.3.0"
 
-linkify-it@^2.0.3:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/linkify-it/-/linkify-it-2.1.0.tgz#c4caf38a6cd7ac2212ef3c7d2bde30a91561f9db"
-  integrity sha512-4REs8/062kV2DSHxNfq5183zrqXMl7WP0WzABH9IeJI+NLm429FgE1PDecltYfnOoFDFlZGh2T8PfZn0r+GTRg==
+linkify-it@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/linkify-it/-/linkify-it-2.2.0.tgz#e3b54697e78bf915c70a38acd78fd09e0058b1cf"
+  integrity sha512-GnAl/knGn+i1U/wjBz3akz2stz+HrHLsxMwHQGofCDfPvlf+gDKN58UtfmUquTY4/MXeE2x7k19KQmeoZi94Iw==
   dependencies:
     uc.micro "^1.0.1"
 
@@ -10651,16 +10651,16 @@ react-double-scrollbar@0.0.15:
   resolved "https://registry.yarnpkg.com/react-double-scrollbar/-/react-double-scrollbar-0.0.15.tgz#e915ab8cb3b959877075f49436debfdb04288fe4"
   integrity sha1-6RWrjLO5WYdwdfSUNt6/2wQoj+Q=
 
-react-draft-wysiwyg@1.12.13:
-  version "1.12.13"
-  resolved "https://registry.yarnpkg.com/react-draft-wysiwyg/-/react-draft-wysiwyg-1.12.13.tgz#609bf9918607837223b67893b1e40d58e20341f4"
-  integrity sha1-YJv5kYYHg3IjtniTseQNWOIDQfQ=
+react-draft-wysiwyg@1.14.6:
+  version "1.14.6"
+  resolved "https://registry.yarnpkg.com/react-draft-wysiwyg/-/react-draft-wysiwyg-1.14.6.tgz#3ea1f9a0a6c767f2be2901034100b9c5a0e3ea9a"
+  integrity sha512-EMIteBVnlMAP3T97OfjlKchsHZ15mYWQwRw8QIInOtAvlZnnTydRjuHMCN0PuQ2dsXwMkJ7+MWc2aTL5RiXmFg==
   dependencies:
-    classnames "^2.2.5"
-    draftjs-utils "^0.9.3"
-    html-to-draftjs "^1.4.0"
-    linkify-it "^2.0.3"
-    prop-types "^15.6.0"
+    classnames "^2.2.6"
+    draftjs-utils "^0.10.2"
+    html-to-draftjs "^1.5.0"
+    linkify-it "^2.2.0"
+    prop-types "^15.7.2"
 
 react-dropzone@7.0.1:
   version "7.0.1"
