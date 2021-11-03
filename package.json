@@ -101,7 +101,7 @@
     "simple-react-validator": "^1.0.7",
     "spinkit": "1.2.5",
     "sweetalert": "2.1.2",
-    "validator": "10.9.0",
+    "validator": "13.7.0",
     "weather-icons": "github:erikflowers/weather-icons",
     "whirl": "github:themicon/whirl"
   },
